@@ -1,0 +1,6 @@
+/---------------------------- How to check that order is approved or cancelled ----------------------------/
+
+#1:) STOP ANY ONE SERVICE AND SENT REQUEST WITH JSON BODY AND CHECK DATABASE . You will see
+that order status is CANCELLED.
+
+
